@@ -33,7 +33,7 @@
   
  👨‍💻 About me :
   
-  I am an language teacher and examiner <img src="https://media.giphy.com/media/mFw9Pwhvaf7lDvUci8/giphy.gif" width="30"/> studying and exploring my other passion- technology! <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="30"/>
+  I am an language teacher and examiner <img src="https://media.giphy.com/media/Jt4pLDfSCRMkLBplxJ/giphy.gif" width="30"/> studying and exploring my other passion- technology! <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="30"/>
   
   - :computer: I am studying a Postgraduate Certificate in Cyber Security.                                                                                             
   - :seedling: Exploring cyber security fundamentals, network security, security and risk management, and secure software design.
