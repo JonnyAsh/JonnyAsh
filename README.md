@@ -50,3 +50,4 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="40" height="40"/>
