@@ -38,7 +38,7 @@
   - :computer: I am studying a Postgraduate Certificate in Cyber Security.                                                                                             
   - :seedling: Exploring cyber security fundamentals, network security, security and risk management, and secure software design.
   - :zap: In my free time, I am discovering Raspberry Pi projects and helping friends and colleagues with their tech issues. 
-  - :book: Although i am not fluent in programming languages, I am gradually becoming more proficient.
+  - :book: Although i am a beginner in these languages, I am gradually becoming more proficient.
   
   </div>
   ---
